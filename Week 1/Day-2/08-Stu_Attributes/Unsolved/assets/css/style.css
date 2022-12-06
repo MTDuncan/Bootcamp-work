@@ -3,7 +3,7 @@
 }
 
 .title {
-  color: darkblue;
+  color: darkblue; font-size: small;
 }
 
 #email {
@@ -15,5 +15,7 @@
 }
 
 #portfolio {
-  background-color: darkorange;
+  background-color: darkorange; font-family: Georgia, 'Times New Roman', Times, serif;
 }
+body {font-size: xx-large;}
+
